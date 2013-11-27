@@ -7,5 +7,6 @@
   "scripts": [
     "howler.js"
   ],
+  "main": "howler.js",
   "license": "MIT"
 }
